@@ -1,7 +1,7 @@
 <h1 align="center">Assalamu alaikum, I'm Mahir Faysal</h1>
 <h3 align="center">An enthusiastic competitive programmer who is continuing developing himself.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fnishanb&psig=AOvVaw35mrdawSgNVKWxmiNd6UyO&ust=1696860570651000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMiL763Q5oEDFQAAAAAdAAAAABAR">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/2iJRzK8ssioAAAAd/cat-typing.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahir-faysal" alt="mahir-faysal" /></a> </p>
 
