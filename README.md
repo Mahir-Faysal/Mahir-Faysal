@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=6000&lines=Assalamu+Alaikum+,+I'm+Mahir+Faysal!;" />
 </h1>
 
-<h3 align="center">An keen competitive programmer who is continuing developing himself</h3>
+<h3 align="center">A programmer who is continuing developing himself.</h3>
 
 <br/>
 
@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Backend Engineering with Laravel and React**
 
-💬 Ask me about **C++, Java, Object Oriented Programming... or anything [here](https://github.com/Mahir-Faysal/Mahir-Faysal/issues)**
+💬 Ask me about **C++, Python, Java, Object Oriented Programming... or anything [here](https://github.com/Mahir-Faysal/Mahir-Faysal/issues)**
 
  </div>
  
