@@ -12,7 +12,7 @@
  
  🏫 I’m currently studying at **East West University**
  
- 🌱 I’m currently learning **Backend Engineering with Laravel and React**
+ 🌱 I’m currently learning **Backend Engineering**
 
 💬 Ask me about **C++, Python, Java, Object Oriented Programming... or anything [here](https://github.com/Mahir-Faysal/Mahir-Faysal/issues)**
 
