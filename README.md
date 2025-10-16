@@ -1,5 +1,10 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Mahir_Faysal" />
 
+
+<p align="center">
+  <img src="https://github.com/Mahir-Faysal/Mahir-Faysal/blob/main/assest/images/img.gif" alt="Alt text for your image" width="500">
+</p>
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=6000&lines=Assalamu+Alaikum+,+I'm+Mahir+Faysal!;" />
 </h1>
