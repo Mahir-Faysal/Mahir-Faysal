@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/Mahir-Faysal/Mahir-Faysal/blob/main/assest/images/img.gif" alt="Alt text for your image" width="500">
+  <img src="https://github.com/Mahir-Faysal/Mahir-Faysal/blob/main/assest/images/img.gif" alt="Alt text for your image" width="500" height="300">
 </p>
 
 <h1 align="center">
