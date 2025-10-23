@@ -16,7 +16,7 @@ size-adjust: 109%;
 text, tspan {white-space: pre;}
 </style>
 <rect width="985px" height="530px" fill="#f6f8fa" rx="15"/>
-<text x="15" y="30" fill="#c9d1d9" class="ascii">
+<text x="15" y="30" fill="#24292f" class="ascii">
 <tspan x="15" y="30">           g@M%@%%@N%Nw,,                   </tspan>
 <tspan x="15" y="50">        ,M*|`||*%gNM=]mM%g||%N,             </tspan>
 <tspan x="15" y="70">       p!``  '! |''` '''|||jhlj%w           </tspan>
@@ -43,7 +43,7 @@ text, tspan {white-space: pre;}
 <tspan x="15" y="490">. ^['' %@@@@HH%b%k{illljkjj%%%% ; `,.      </tspan>
 <tspan x="15" y="510">=[' ` . %HH%%%%%H@gkilljjj%kk%".   `'i</tspan>
 </text>
-<text x="390" y="30" fill="#c9d1d9">
+<text x="390" y="30" fill="#24292f">
 <tspan x="390" y="30">@mahir_faysal</tspan> -———————————————————————————————————————————-—-
 <tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Windows 11, Android 14, Linux</tspan>
 <tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ...................... </tspan><tspan class="value" id="age_data">23 years, 9 months, 12 days</tspan>
