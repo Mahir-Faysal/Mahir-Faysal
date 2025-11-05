@@ -9,7 +9,10 @@
 `A Software Craftsman`
 ---
  I am known for my `technical foresight` and I drove cool projects to dominate next-generation technical hurdles.
- 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahir-faysal/) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=flat&logo=gmail&logoColor=white)](mailto:mahirfaysal1234@gmail.com)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Mahir__Faysal) 
+
 ## Language:
 ![Python](https://img.shields.io/badge/python-3670A0.svg?style=flat&logo=python&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-00599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
