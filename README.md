@@ -44,6 +44,4 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=flat&logo=docker&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=flat&logo=postman&logoColor=white) 
 ![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=flat&logo=vercel&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=flat&logo=pycharm&logoColor=white)
+
