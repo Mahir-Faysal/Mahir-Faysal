@@ -10,7 +10,7 @@
 ---
 I am known for my `technical foresight` and I drove cool projects to dominate next-generation technical hurdles.
 
-  I write about stuffs in here - [`https://mahirfaysal.me`](https://mahirfaysal.me)
+ I write about stuffs in here - <a href="https://mahirfaysal.me" target="_blank">`https://mahirfaysal.me`</a>
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahir-faysal/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=flat&logo=gmail&logoColor=white)](mailto:mahirfaysal1234@gmail.com)
