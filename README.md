@@ -10,7 +10,7 @@
 ---
 I am known for my `technical foresight` and I drove cool projects to dominate next-generation technical hurdles.
 
- I write about stuffs in here - <a href="https://mahirfaysal.me" target="_blank">`https://mahirfaysal.me`</a>
+ I write about stuffs in here - <a href="https://builtbymahir.bro.bd" target="_blank">`https://builtbymahir.bro.bd`</a>
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahir-faysal/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=flat&logo=gmail&logoColor=white)](mailto:mahirfaysal1234@gmail.com)
@@ -36,13 +36,12 @@ I am known for my `technical foresight` and I drove cool projects to dominate ne
 
 ## Development Stack:
 ![Next JS](https://img.shields.io/badge/Next.js-000000.svg?style=flat&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F.svg?style=flat&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/Express-000000.svg?style=flat&logo=express&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F.svg?style=flat&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=flat&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB.svg?style=flat&logo=react&logoColor=black) 
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4.svg?style=flat&logo=tailwindcss&logoColor=white) 
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000.svg?style=flat&logo=vercel&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?style=flat&logo=postgresql&logoColor=white) 
-![Oracle](https://img.shields.io/badge/Oracle-FF0000.svg?style=flat&logo=oracle&logoColor=white)
 
 ## Tools:
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=git&logoColor=white) 
